@@ -27,4 +27,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0913-cat-and-mouse](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0913-cat-and-mouse) |
+## Array
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0036-valid-sudoku) |
+## Hash Table
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0036-valid-sudoku) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
