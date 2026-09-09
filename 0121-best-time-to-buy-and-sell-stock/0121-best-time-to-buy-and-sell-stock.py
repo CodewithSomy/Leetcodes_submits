@@ -1,13 +1,15 @@
 class Solution(object):
     def maxProfit(self, prices):
         if not prices:
-            return 0
-        n=len(prices)
-        min=float('inf')
-        max_profit=0
+           return 0
+        profit = 0
+        max = min = prices[0]
         for price in prices:
             if price < min:
-                min = price
-            else:
-                max_profit = max(max_profit, price - min)
-        return max_profit
+                max = min = price
+            elif max < price:
+                 max = price
+                 temp = max - min
+                 if profit < temp:
+                    profit = temp
+        return profit
