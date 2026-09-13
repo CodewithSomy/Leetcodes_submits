@@ -1,5 +1,6 @@
 class Solution(object):
     def shuffle(self, nums, n):
-        for i in range(n):
-            nums.insert(2*i+1,nums.pop(n+i))
-        return nums        
+        numbers = []
+        for x,y in zip(nums[:n],nums[n:]):       
+            numbers.extend([x,y])
+        return numbers  
