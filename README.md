@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0486-predict-the-winner](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0486-predict-the-winner) |
 | [0495-teemo-attacking](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0495-teemo-attacking) |
 | [1004-max-consecutive-ones-iii](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/1004-max-consecutive-ones-iii) |
+| [1929-concatenation-of-array](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/1929-concatenation-of-array) |
 | [2101-detonate-the-maximum-bombs](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/2101-detonate-the-maximum-bombs) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/3186-maximum-total-damage-with-spell-casting) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0495-teemo-attacking](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0495-teemo-attacking) |
+| [1929-concatenation-of-array](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/1929-concatenation-of-array) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 ## Backtracking
 |  |
