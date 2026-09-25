@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0169-majority-element) |
 | [0238-product-of-array-except-self](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0283-move-zeroes) |
+| [0289-game-of-life](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0289-game-of-life) |
 | [0486-predict-the-winner](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0486-predict-the-winner) |
 | [0495-teemo-attacking](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0495-teemo-attacking) |
 | [1004-max-consecutive-ones-iii](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/1004-max-consecutive-ones-iii) |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0048-rotate-image) |
 | [0085-maximal-rectangle](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0085-maximal-rectangle) |
+| [0289-game-of-life](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0289-game-of-life) |
 ## Two Pointers
 |  |
 | ------- |
@@ -150,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0068-text-justification) |
+| [0289-game-of-life](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0289-game-of-life) |
 | [0495-teemo-attacking](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0495-teemo-attacking) |
 | [1929-concatenation-of-array](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/1929-concatenation-of-array) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/2660-determine-the-winner-of-a-bowling-game) |
