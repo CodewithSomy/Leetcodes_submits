@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0067-add-binary) |
 | [0486-predict-the-winner](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0486-predict-the-winner) |
+| [0507-perfect-number](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0507-perfect-number) |
 | [0913-cat-and-mouse](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0913-cat-and-mouse) |
 | [2101-detonate-the-maximum-bombs](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/2101-detonate-the-maximum-bombs) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/3345-smallest-divisible-digit-product-i) |
