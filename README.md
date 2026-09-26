@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0913-cat-and-mouse](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0913-cat-and-mouse) |
 | [2101-detonate-the-maximum-bombs](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/2101-detonate-the-maximum-bombs) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -202,4 +203,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0169-majority-element) |
+## Number Theory
+|  |
+| ------- |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/3658-gcd-of-odd-and-even-sums) |
 <!---LeetCode Topics End-->
