@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/1004-max-consecutive-ones-iii) |
 | [1470-shuffle-the-array](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/1929-concatenation-of-array) |
+| [2056-number-of-valid-move-combinations-on-chessboard](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/2056-number-of-valid-move-combinations-on-chessboard) |
 | [2101-detonate-the-maximum-bombs](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/2101-detonate-the-maximum-bombs) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/3186-maximum-total-damage-with-spell-casting) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0068-text-justification) |
+| [2056-number-of-valid-move-combinations-on-chessboard](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/2056-number-of-valid-move-combinations-on-chessboard) |
 ## Stack
 |  |
 | ------- |
@@ -157,11 +159,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0289-game-of-life) |
 | [0495-teemo-attacking](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0495-teemo-attacking) |
 | [1929-concatenation-of-array](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/1929-concatenation-of-array) |
+| [2056-number-of-valid-move-combinations-on-chessboard](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/2056-number-of-valid-move-combinations-on-chessboard) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 ## Backtracking
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0037-sudoku-solver) |
+| [2056-number-of-valid-move-combinations-on-chessboard](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/2056-number-of-valid-move-combinations-on-chessboard) |
 ## Algorithm X
 |  |
 | ------- |
