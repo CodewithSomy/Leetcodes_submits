@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0015-3sum) |
+| [0061-rotate-list](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0061-rotate-list) |
 | [0283-move-zeroes](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0392-is-subsequence) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/3186-maximum-total-damage-with-spell-casting) |
@@ -221,5 +222,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0061-rotate-list](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0061-rotate-list) |
 | [0328-odd-even-linked-list](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0328-odd-even-linked-list) |
 <!---LeetCode Topics End-->
