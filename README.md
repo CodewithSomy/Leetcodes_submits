@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0061-rotate-list) |
 | [0283-move-zeroes](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0392-is-subsequence) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Sorting
 |  |
@@ -224,4 +225,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0061-rotate-list) |
 | [0328-odd-even-linked-list](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0328-odd-even-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
