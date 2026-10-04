@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0061-rotate-list) |
+| [0234-palindrome-linked-list](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0392-is-subsequence) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0032-longest-valid-parentheses) |
 | [0085-maximal-rectangle](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0085-maximal-rectangle) |
+| [0234-palindrome-linked-list](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0678-valid-parenthesis-string) |
 ## Bracket Sequences
 |  |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0486-predict-the-winner) |
 ## Minimax
 |  |
@@ -229,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0061-rotate-list) |
+| [0234-palindrome-linked-list](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0328-odd-even-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
