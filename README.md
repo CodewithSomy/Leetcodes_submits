@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0068-text-justification) |
 | [0392-is-subsequence](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0856-score-of-parentheses) |
 | [2056-number-of-valid-move-combinations-on-chessboard](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/2056-number-of-valid-move-combinations-on-chessboard) |
 ## Stack
 |  |
@@ -127,12 +128,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0085-maximal-rectangle) |
 | [0234-palindrome-linked-list](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0856-score-of-parentheses) |
 ## Bracket Sequences
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0678-valid-parenthesis-string) |
+| [0856-score-of-parentheses](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0856-score-of-parentheses) |
 ## Greedy
 |  |
 | ------- |
