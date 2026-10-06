@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0067-add-binary) |
 | [0486-predict-the-winner](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0486-predict-the-winner) |
 | [0507-perfect-number](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0507-perfect-number) |
+| [0877-stone-game](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0877-stone-game) |
 | [0913-cat-and-mouse](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0913-cat-and-mouse) |
 | [2101-detonate-the-maximum-bombs](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/2101-detonate-the-maximum-bombs) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0392-is-subsequence) |
 | [0486-predict-the-winner](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0678-valid-parenthesis-string) |
+| [0877-stone-game](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0877-stone-game) |
 | [0913-cat-and-mouse](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0913-cat-and-mouse) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Graph Theory
@@ -44,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0877-stone-game) |
 | [0913-cat-and-mouse](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0913-cat-and-mouse) |
 ## Array
 |  |
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0289-game-of-life) |
 | [0486-predict-the-winner](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0486-predict-the-winner) |
 | [0495-teemo-attacking](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0495-teemo-attacking) |
+| [0877-stone-game](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/1004-max-consecutive-ones-iii) |
 | [1470-shuffle-the-array](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/1929-concatenation-of-array) |
@@ -157,10 +161,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0877-stone-game) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [0486-predict-the-winner](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0486-predict-the-winner) |
+| [0877-stone-game](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0877-stone-game) |
 ## Binary Search
 |  |
 | ------- |
