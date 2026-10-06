@@ -26,7 +26,6 @@ class Solution {
                 maxnow = sum;
                 LvLmax = lvl;
             }
-
             lvl++;
         }
         return LvLmax;
