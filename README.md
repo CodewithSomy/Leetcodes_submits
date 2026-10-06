@@ -119,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0392-is-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2056-number-of-valid-move-combinations-on-chessboard](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/2056-number-of-valid-move-combinations-on-chessboard) |
 ## Stack
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -136,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0032-longest-valid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0856-score-of-parentheses) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Greedy
 |  |
 | ------- |
@@ -143,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0055-jump-game) |
 | [0134-gas-station](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0134-gas-station) |
 | [0678-valid-parenthesis-string](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Recursion
 |  |
 | ------- |
