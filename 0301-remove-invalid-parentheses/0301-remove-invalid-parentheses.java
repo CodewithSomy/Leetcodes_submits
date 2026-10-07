@@ -5,7 +5,7 @@ class Solution {
             int exopen,
             int exclose, String s,
             Set<String> output) {
-        if (net < 0)
+        if (net < 0 || exopen < 0 || exclose < 0)
             return;
 
         if (idx == s.length()) {
