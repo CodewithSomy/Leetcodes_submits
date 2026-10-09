@@ -1,13 +1,13 @@
 int minInsertions(char* s) {
-    int i = 0, close = 0, open = 0;
-    while (s[i] != '\0') {
-        if (s[i] == '(') {
-            if(close%2!=0){
+    int close = 0, open = 0;
+    while (*s != '\0') {
+        if (*s == '(') {
+            if (close % 2 != 0) {
                 open++;
                 close--;
             }
-            close+=2;
-        } else if (s[i] == ')') {
+            close += 2;
+        } else if (*s == ')') {
             if (close > 0) {
                 close--;
             } else {
@@ -15,7 +15,7 @@ int minInsertions(char* s) {
                 close++;
             }
         }
-        i++;
+        s++;
     }
-    return open+close;
+    return open + close;
 }
