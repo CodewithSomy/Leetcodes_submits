@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/1929-concatenation-of-array) |
 | [2056-number-of-valid-move-combinations-on-chessboard](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/2056-number-of-valid-move-combinations-on-chessboard) |
 | [2101-detonate-the-maximum-bombs](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/2101-detonate-the-maximum-bombs) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Hash Table
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0015-3sum) |
 | [0169-majority-element](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0169-majority-element) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Enumeration
 |  |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0678-valid-parenthesis-string) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/2333-minimum-sum-of-squared-difference) |
 ## Recursion
 |  |
 | ------- |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1004-max-consecutive-ones-iii](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/1004-max-consecutive-ones-iii) |
+| [2333-minimum-sum-of-squared-difference](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Sliding Window
 |  |
@@ -270,4 +274,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/2333-minimum-sum-of-squared-difference) |
 <!---LeetCode Topics End-->
