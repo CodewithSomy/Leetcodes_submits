@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2101-detonate-the-maximum-bombs](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/2101-detonate-the-maximum-bombs) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/2660-determine-the-winner-of-a-bowling-game) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Hash Table
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/3345-smallest-divisible-digit-product-i) |
 ## String
 |  |
