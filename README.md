@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0037-sudoku-solver) |
+| [0141-linked-list-cycle](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0169-majority-element) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Matrix
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0015-3sum) |
 | [0061-rotate-list](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0061-rotate-list) |
+| [0141-linked-list-cycle](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0392-is-subsequence) |
@@ -266,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0061-rotate-list) |
+| [0141-linked-list-cycle](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0328-odd-even-linked-list) |
@@ -282,4 +285,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2333-minimum-sum-of-squared-difference](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/2333-minimum-sum-of-squared-difference) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
