@@ -22,6 +22,7 @@ int maxSum(int* nums, int numsSize, int k) {
             break;
         ans=(ans+num*num)%MOD;
     }
+    free(bits);
 
     return ans;
 }
