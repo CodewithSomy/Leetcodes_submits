@@ -1,8 +1,5 @@
 int compare(const void* a, const void* b) {
-    int x = *(const int*)a;
-    int y = *(const int*)b;
-
-    return (abs(x)<abs(y))-(abs(x)>abs(y));
+    return abs(*(const int*)b) - abs(*(const int*)a);
 }
 
 long long maxAlternatingSum(int* nums, int numsSize) {
