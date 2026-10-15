@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/3186-maximum-total-damage-with-spell-casting) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Hash Table
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0169-majority-element) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/3186-maximum-total-damage-with-spell-casting) |
 ## Matrix
 |  |
@@ -298,4 +300,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0141-linked-list-cycle) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
