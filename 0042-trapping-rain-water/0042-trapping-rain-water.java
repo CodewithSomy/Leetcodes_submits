@@ -6,7 +6,7 @@ class Solution {
 
         int p1 = 0, p2 = 1, p3 = 0;
         int first = 0, second = 0;
-        int total_fill = 0, fill = 0, spill = 0;
+        int total_fill = 0, fill = 0;
 
         while (p2 < height.length) {
             first = height[p1];
@@ -14,19 +14,17 @@ class Solution {
 
             if (first > second) {
                 fill += first - second;
-                spill += first - second;
                 p2++;
             } else {
                 total_fill += fill;
                 fill = 0;
-                spill = 0;
                 p1 = p2;
                 p3 = p1;
                 p2++;
             }
         }
 
-        if (spill > 0) {
+        if (fill > 0) {
             fill = 0;
             p1 = height.length - 1;
             p2 = p1 - 1;
