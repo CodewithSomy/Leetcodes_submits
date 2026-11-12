@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0032-longest-valid-parentheses](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0042-trapping-rain-water) |
 | [0055-jump-game](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0055-jump-game) |
 | [0085-maximal-rectangle](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0085-maximal-rectangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0037-sudoku-solver) |
+| [0042-trapping-rain-water](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0048-rotate-image) |
 | [0055-jump-game](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0068-text-justification) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0042-trapping-rain-water) |
 | [0061-rotate-list](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0141-linked-list-cycle) |
 | [0234-palindrome-linked-list](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0234-palindrome-linked-list) |
@@ -150,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0032-longest-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0085-maximal-rectangle) |
 | [0234-palindrome-linked-list](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0678-valid-parenthesis-string) |
@@ -249,6 +253,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0085-maximal-rectangle) |
 ## Depth-First Search
 |  |
