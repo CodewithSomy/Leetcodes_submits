@@ -148,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/1021-remove-outermost-parentheses) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2056-number-of-valid-move-combinations-on-chessboard](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/2056-number-of-valid-move-combinations-on-chessboard) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/2243-calculate-digit-sum-of-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -224,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0495-teemo-attacking](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0495-teemo-attacking) |
 | [1929-concatenation-of-array](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/1929-concatenation-of-array) |
 | [2056-number-of-valid-move-combinations-on-chessboard](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/2056-number-of-valid-move-combinations-on-chessboard) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2660-determine-the-winner-of-a-bowling-game](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/2660-determine-the-winner-of-a-bowling-game) |
 ## Backtracking
 |  |
