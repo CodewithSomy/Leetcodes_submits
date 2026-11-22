@@ -161,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0042-trapping-rain-water) |
 | [0085-maximal-rectangle](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0085-maximal-rectangle) |
+| [0232-implement-queue-using-stacks](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0234-palindrome-linked-list) |
 | [0678-valid-parenthesis-string](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0856-score-of-parentheses) |
@@ -322,4 +323,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
