@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0048-rotate-image) |
 | [0067-add-binary](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0067-add-binary) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0012-integer-to-roman) |
 | [0036-valid-sudoku](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0037-sudoku-solver) |
 | [0141-linked-list-cycle](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0141-linked-list-cycle) |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0012-integer-to-roman) |
 | [0020-valid-parentheses](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0032-longest-valid-parentheses) |
 | [0067-add-binary](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0067-add-binary) |
