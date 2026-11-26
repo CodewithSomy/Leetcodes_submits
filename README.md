@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0289-game-of-life) |
 | [0486-predict-the-winner](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0486-predict-the-winner) |
 | [0495-teemo-attacking](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0495-teemo-attacking) |
+| [0704-binary-search](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0704-binary-search) |
 | [0877-stone-game](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/1004-max-consecutive-ones-iii) |
 | [1470-shuffle-the-array](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/1470-shuffle-the-array) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0704-binary-search](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/0704-binary-search) |
 | [1004-max-consecutive-ones-iii](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/1004-max-consecutive-ones-iii) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/2333-minimum-sum-of-squared-difference) |
 | [3186-maximum-total-damage-with-spell-casting](https://github.com/CodewithSomy/Leetcodes_submits/tree/master/3186-maximum-total-damage-with-spell-casting) |
